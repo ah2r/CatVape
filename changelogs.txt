@@ -1,2 +1,3 @@
 
 - removed qwerty
+- added outer
