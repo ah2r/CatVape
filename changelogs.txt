@@ -2,4 +2,4 @@
 - removed fuzzy
 - removed qwerty
 - removed everyone
-- removed
+- remove
