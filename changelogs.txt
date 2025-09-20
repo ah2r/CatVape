@@ -1,5 +1,3 @@
 - removed outer
 - removed fuzzy
 - removed qwerty
-- removed everyone
-- remove
