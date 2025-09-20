@@ -1,3 +1,2 @@
-- removed outer
-- removed fuzzy
+
 - removed qwerty
